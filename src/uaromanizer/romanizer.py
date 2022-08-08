@@ -1,4 +1,4 @@
-import substitution
+from . import substitution
 
 
 class Romanizer:
