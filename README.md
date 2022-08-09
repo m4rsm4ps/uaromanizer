@@ -6,4 +6,5 @@ Provides means for romanization of Ukrainian writing(barely)
 
 ***Usage:***
 `from uaromanizer import Romanizer`
+\n
 `Romanizer(<cyrillic_ukrainian_writing>).romanize()` -> str
